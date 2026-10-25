@@ -48,4 +48,8 @@ To achieve maximal determinism and lock processor temperatures safely below ther
     Trinity\CCP (Core Cleanse Protocol): At the end of every task slice, an explicit inline assembly protocol executes broad vector zeroization (vxorps) across all YMM registers, sterilizing the silicon and blocking all microarchitectural side-channel attacks.
     Thermal Adaptive Interrupt Brake: All heavy parsers and drivers are governed by native seL4_Wait interrupt blocks. During idle cycles, thread execution drops to absolute 0% CPU utilization, reducing current draw to near zero and ensuring the liquid cooling loops maintain optimal silicon temperatures.
 
-TrinityOS
+TrinityOS is a Commercial System and non-free product! Any implementation found on GitHub or on the Internet its illegal!
+
+Start time at 23-08-2026 
+Archive start at 24-09-2026
+
